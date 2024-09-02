@@ -1,0 +1,5 @@
+B. Backend Development
+Set Up Express Server:
+
+Initialize a Node.js project: npm init -y'
+Install dependencies: npm install express mongoose bcryptjs jsonwebtoken cors'
